@@ -6,7 +6,7 @@
 
 By working through this project, I learned how to setup a GitHub repository with a README file.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/vEkUVvpX-gA)
 
 # Development Environment
 
